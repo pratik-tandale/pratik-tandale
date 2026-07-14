@@ -138,11 +138,11 @@ Developed a Multi-View Fuzzy C-Means clustering framework by integrating PCA, UM
 
 ## 📫 Connect with Me
 
-📧 **Email:** pratiktandale@gmail.com
+📧 **Email:** pratikstandale@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/pratik-tandale-012ps/
 
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+💻 **GitHub:** https://github.com/pratik-tandale
 
 ---
 
